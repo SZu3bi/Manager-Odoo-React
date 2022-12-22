@@ -1,0 +1,6 @@
+{
+ "GetAddress" :"http://66.94.97.45/web/user/getAlldata",
+ "CreateAddress":"http://66.94.97.45/web/user/dataCreate" ,
+ "DeleteAddress" :"http://66.94.97.45/web/user/dataDelete",
+ "LoginAddress" :"http://66.94.97.45/web/session/authenticate"
+}
